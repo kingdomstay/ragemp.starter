@@ -1,0 +1,28 @@
+{
+  "name": "chromiumrp",
+  "version": "0.0.0",
+  "description": "Chromium Role Play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingdomstay/chromium.rp.git"
+  },
+  "author": "Kirill Troitskij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingdomstay/chromium.rp/issues"
+  },
+  "homepage": "https://github.com/kingdomstay/chromium.rp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jquery": "^3.4.1",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/ragemp-c": "https://github.com/CocaColaBear/types-ragemp-c/tarball/master",
+    "@types/ragemp-s": "https://github.com/CocaColaBear/types-ragemp-s/tarball/master"
+  }
+}
